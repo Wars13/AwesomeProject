@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "prompt": "Large<img> file:///C:/Users/makila/Desktop/images/a.PNG </img>",
+    "option1": "the heating effect of current alone",
+    "option2": "hysteresis loss alone",
+    "option3": "both the heating effect of current and hysteresis loss",
+    "option4": "intense sunlight at noon",
+    "isVisiting": false,
+    "isAnswered": true
+  }
+]
